@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    background-image: linear-gradient(to right, #8C2703, #591202);
+    margin: auto;
+    text-align: center;
+}
+
+main{
+    background-color: rgb(255, 215, 215);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #591202;
+
+}
+h1{
+    font-family: 'fonte2';
+   
+    margin: auto;
+   
+    background-color: #f8a5867c;
+    width: 14em;
+}
+h2{
+    font-family: 'fonte';
+   
+  
+}
+
+@font-face {
+    font-family:'fonte' ;
+    src: url(font/CamelliaSignatureDEMO!-DEMO!.ttf);
+}
+@font-face {
+    font-family: 'fonte2' ;
+    src: url(font/AVELIRE.ttf);
+}
+p{
+    font-family: 'fonte2', Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f8a5867c;
+    font-size: 1.4em;
+}
+    
+.link{
+    font-size: 15px;
+    text-align: center;
+}
+.titulo2{
+    background-color: #f8a5867c;
+}
+.p{
+    background-color:#f8a5867c;
+    width: 99px;
+    height: 73px;
+    margin: auto;
+
+}
+.h1s2{
+    color: #d4c2ac;
+    text-align: center;
+}
+.fotos{
+ background-color: #8C2703;
+ width: auto;
+ height: auto;
+ border-width: 10em;
+ border-style: solid;
+ border-color:#f8a5867c;
+border-inline-color: #cc886f7c;
+}
+img{
+    margin: 1em;
+}
