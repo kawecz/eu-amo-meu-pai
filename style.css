@@ -56,7 +56,6 @@ main{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     box-shadow: 10px 10px 10px #00000059;
-
 }
 
 main > h1 {
@@ -131,6 +130,7 @@ img{
     border-radius: 5px;
 }
 
+
 div.video {
     background-color: var(--cor05);
     margin: 0px -20px 30px;
@@ -139,6 +139,7 @@ div.video {
     position: relative;
     background-color: #2D392D;
     border-radius: 10px;
+    max-width: 480px;
 }
 
 div.video > iframe {
