@@ -24,7 +24,7 @@ header {
 header > h1 {
     padding-top: 10px;
     margin:auto;
-    max-width: 670px;
+    width:  370px;
     height: 50px;
     border-radius: 0px;
 }
